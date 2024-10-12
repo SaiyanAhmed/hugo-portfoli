@@ -1,0 +1,24 @@
+
+[[social]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/sakiful-ahmed-saiyan-42097a152/"
+    weight = 1
+    params = {icon = "brand-linkedin"}
+
+[[social]]
+    name = "GitHub"
+    url = "https://github.com/SaiyanAhmed"
+    weight = 2
+    params = {icon = "brand-github"}
+
+[[social]]
+    name = "Facebook"
+    url = "https://www.facebook.com/profile.php?id=100004482614927"
+    weight = 3
+    params = {icon = "brand-facebook"}
+
+[[social]]
+    name = "Instagram"
+    url = "https://www.instagram.com/saiyan_ahmed/"
+    weight = 4
+    params = {icon = "brand-instagram"}
