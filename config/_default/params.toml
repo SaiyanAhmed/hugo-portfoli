@@ -5,7 +5,7 @@ favicon = "/favicon.png"
 #Sidebar
 [sidebar]
     subtitle = "Data & Business Analyst"
-    avatar = {src = "img/avatar.JPG"}
+    avatar = {src = "img/avatar.jpg"}
 
 #Widget
 

@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://sakiful.com/"
 languageCode = "en-us"
 title = "Sakiful Ahmed Saiyan"
 theme = "hugo-theme-stack"
