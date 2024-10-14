@@ -1,6 +1,6 @@
 +++
 title = '"Stock Forecasting App" - Strimlit & Facebook Prophet Model'
-description = "A Custom Power BI Dashboard for Business Analytics"
+description = "A Dynamic Stock Predicting App"
 slug = "stock-predict"
 date = "2024-09-21"
 image = "cover.jpeg"

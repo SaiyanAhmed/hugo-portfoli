@@ -1,14 +1,14 @@
 +++
 title = 'Elon Musk vs Bitcoin'
 description = '''
-'A "Google Causal Impact" Analysis Between Elon Musk Tweet's & BTC Downfall '
+A "Google Causal Impact" Analysis Between Elon Musk Tweet's & BTC Downfall
 '''
 slug = "elon-vs-btc"
 date = "2023-05-27"
 image = "cover.jpg"
 draft = false
 categories = ["My Projects"]
-tags= ["google-causal-impact", "python", "pandas"]
+tags= ["google-causal-impact", "python", "pandas", "data-analytics"]
 +++
 <html>
 <head>
