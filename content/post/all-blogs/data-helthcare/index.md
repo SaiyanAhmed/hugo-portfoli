@@ -22,7 +22,7 @@ Using **predictive analytics** is one of the significant ways data analytics can
 - **Anticipating Peaks:** Predictive models (e.g., time series, random forest, etc.) can forecast of particular **HCP's** also known as **Healthcare Professionals** (e.g., GNA/CNA, PN/LPN, RN's, Therapist, Specialized Technician). This helps agencies and healthcare facilities avoid last-minute scrambling to fill shifts, leading to better patient care and reduced overtime costs.
 - **Optimizing Staffing Levels:** Both overstaffing and understaffing are expensive mistakes. With accurate predictions both facilities and stuffing agencies can maintain the right balance and ensure they’re neither short on staff nor paying for unneeded shifts.
 
-For example, in my previous role, I helped develop a **Nurse Scoring System** that used machine learning algorithms to predict the demand for nurses based on multiple variables such as seasonal trends, regional health statistics, and historical admission data. This system significantly optimized staffing decisions, reducing operational bottlenecks during peak times.
+For example, in my current role, I helped develop a **Nurse Scoring System** that used machine learning algorithms to predict the demand for nurses based on multiple variables such as seasonal trends, regional health statistics, and historical admission data. This system significantly optimized staffing decisions, reducing operational bottlenecks during peak times.
 
 ## Enhanced Candidate Matching and Screening
 
@@ -38,7 +38,7 @@ This automated matching reduces the time spent manually screening candidates, fr
 
 ## Optimizing Recruitment with Cost-Per-Hire and Time-to-Hire Metrics
 
-Recruitment can be time-consuming and expensive, especially in the healthcare industry, where the need for a highly skilled workforce is critical Data analytics can provide real-time insight into the costs of is created at each hire and at the time of employment, to enable staffing agencies to develop better recruitment strategies
+Recruitment can be time-consuming and expensive, especially in the healthcare industry, where the need for a highly skilled workforce is critical. Data analytics can provide real-time insight into the costs of is created at each hire and at the time of employment, to enable staffing agencies to develop better recruitment strategies
 
 **Key Performance Indicators (KPIs) to Track:**
 
