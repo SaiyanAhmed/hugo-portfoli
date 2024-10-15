@@ -6,7 +6,7 @@ date = "2024-10-14"
 image = "cover.jpg"
 draft = false
 categories = ["My Blogs"]
-tags= ["data-analytics", "statistics"]
+tags= ["data analytics", "statistics"]
 +++
 
 One of the great challenges for hospitals, clinics, and other healthcare facilities is to ensure they has the right skilled professionals to meet their need. The healthcare staffing industry plays a vital role in fulfilling this need. However, the the complicated nature of staffing healthcare workers - due to fluctuating demands, varying qualifications, and compliance issues, makes the process highly challenging. To overcome this problem we utilize data analytics that can provide a transformative solution.

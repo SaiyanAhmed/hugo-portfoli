@@ -6,7 +6,7 @@ date = "2021-10-12"
 image = "cover.png"
 draft = false
 categories = ["My Projects"]
-tags= ["dashboard", "power-bi", "dax"]
+tags= ["dashboard", "power bi", "dax"]
 +++
 
 ## GOAL ##

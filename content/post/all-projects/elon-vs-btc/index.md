@@ -8,7 +8,7 @@ date = "2023-05-27"
 image = "cover.jpg"
 draft = false
 categories = ["My Projects"]
-tags= ["google-causal-impact", "python", "pandas", "data-analytics"]
+tags= ["google causal impact", "python", "pandas", "data analytics", "statistics"]
 +++
 <html>
 <head>

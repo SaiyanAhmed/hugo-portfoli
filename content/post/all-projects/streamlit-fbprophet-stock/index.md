@@ -6,7 +6,7 @@ date = "2024-09-21"
 image = "cover.jpeg"
 draft = false
 categories = ["My Projects"]
-tags= ["strimlit", "python", "fb-prophet"]
+tags= ["strimlit", "python", "fb prophet"]
 +++
 
 This interactive app, built with Streamlit and Facebook Prophet Model, allows users to analyze and forecast stock prices for popular companies like Microsoft (MSFT), Nvidia (NVDA), Google (GOOG), Apple (AAPL), and Tesla (TSLA) in real time. Users can easily select stocks, define a prediction period (1-5 years), and visualize historical data alongside forecasts.
