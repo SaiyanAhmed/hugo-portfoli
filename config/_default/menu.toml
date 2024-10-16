@@ -22,3 +22,9 @@
     url = "https://www.instagram.com/saiyan_ahmed/"
     weight = 4
     params = {icon = "brand-instagram"}
+
+[[social]]
+    name = "mail"
+    url = "mailto:mail@sakiful.com"
+    weight = 5
+    params = {icon = "mail"}

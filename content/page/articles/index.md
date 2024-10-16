@@ -1,7 +1,7 @@
 +++
-title= "Blogs"
-layout= "blogs"
-url =  "/categories/my-blogs/"
+title= "Articles"
+layout= "articles"
+url =  "/categories/my-articles/"
 
 [menu.main]
 weight = 4

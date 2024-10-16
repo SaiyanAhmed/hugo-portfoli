@@ -5,7 +5,7 @@ slug = "data-helthcare"
 date = "2024-10-14"
 image = "cover.jpg"
 draft = false
-categories = ["My Blogs"]
+categories = ["My Articles"]
 tags= ["data analytics", "statistics"]
 +++
 

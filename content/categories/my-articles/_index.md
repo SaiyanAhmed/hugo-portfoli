@@ -1,5 +1,5 @@
 +++
-title = "My Blogs"
+title = "My Articles"
 image = "cover.jpg"
 
 # Badge style
