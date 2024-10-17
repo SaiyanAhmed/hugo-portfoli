@@ -71,7 +71,7 @@ Experienced Data Analyst with a strong background in data visualization, statist
 - **Data Processing & Databases:** SQL (MySQL, SQL Server), ETL, Time Series Forecasting, Econometrics
 - **Data Reporting Tools:** Power BI, Matplotlib, Seaborn, Plotly-Dash, Streamlit
 - **Programming Languages:** Python, C
-- **Other Tools:** GitHub
+- **Version Control Tools:** Git, GitHub
 - **Languages:** Fluent in English & Bengali
 
 ---
