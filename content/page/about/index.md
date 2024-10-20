@@ -94,13 +94,3 @@ Experienced Data Analyst with a strong background in data visualization, statist
 - **Business Data Analytics & Intelligence with Python**
 
 ---
-
-## **Projects**
-
-- **Power BI Dashboards:** Designed multiple dashboards for tracking KPIs and business performance.
-- **Stock Prediction App:** Developed a machine learning model for forecasting stock prices using time-series analysis.
-- **Predictive Analytics:** Leveraged Python to forecast trends and patterns in large datasets.
-- **Segmentation & Econometrics:** Conducted segmentation and causal inference analyses for strategic business insights.
-
----
-
