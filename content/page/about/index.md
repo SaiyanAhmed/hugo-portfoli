@@ -12,6 +12,7 @@ weight = 2
 
 <html>
 <head>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .button {
@@ -35,13 +36,26 @@ weight = 2
 </div>
 </html>
 
-## **Professional Summary**
+<html>
+<head>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</head>
+<body>
 
-Experienced Data Analyst with a strong background in data visualization, statistical analysis, and process automation. Proficient in Power BI, SQL, and Python, with a demonstrated ability to reduce costs, develop insightful dashboards, and drive strategic data-driven decisions. Effective team leader capable of presenting complex insights to support business goals.
+<p align="center">
+  <i class="devicon-python-plain", style="font-size: 35px"></i>
+  <i class="devicon-c-plain", style="font-size: 35px"></i>
+  <i class="devicon-pandas-plain", style="font-size: 35px"></i>
+  <i class="devicon-matplotlib-plain", style="font-size: 35px"></i>
+  <i class="devicon-plotly-plain", style="font-size: 35px"></i>
+  <i class="devicon-streamlit-plain", style="font-size: 35px"></i>
+  <i class="devicon-mysql-plain", style="font-size: 35px"></i>
+</p>
+</body>
+</html>
 
 ---
-
-## **Professional Experience**
+<h2 align="center", style="color:#6497b1;">Professional Experience</h2>
 
 ### **Lead - Data Analytics & Marketing**  
 *WorkSquare Healthcare Staffing, USA (Deployed by Invicta Solution Ltd.) | Aug 2023 - Present*
@@ -65,32 +79,10 @@ Experienced Data Analyst with a strong background in data visualization, statist
 
 ---
 
-## **Technical Skills**
-
-- **Data Analytics:** Power BI, Power Query, DAX, Python (Pandas, NumPy, Scikit-learn), Excel (Advanced Analytics)
-- **Data Processing & Databases:** SQL (MySQL, SQL Server), ETL, Time Series Forecasting, Econometrics
-- **Data Visualization & Reporting:** Power BI, Matplotlib, Seaborn, Plotly-Dash, Streamlit
-- **Programming Languages:** Python, C
-- **Version Control Tools:** Git, GitHub
-- **Languages:** Fluent in English & Bengali
-
----
-
-## **Education**
+<h2 align="center", style="color:#6497b1;">Education</h2>
 
 ### **Bachelor of Business Administration (BBA)**  
 *East West University | 2022*  
 - **Major:** Management Information Systems (MIS)  
 - **Minor:** Human Resource Management (HRM)  
-
----
-
-## **Certifications**
-
-- **SQL:** Data Reporting and Analysis | MySQL for Data Analytics and Business Intelligence  
-- **Power BI Desktop for Business Intelligence**  
-- **Complete Python Developer**  
-- **Python Data Analysis & Visualization Masterclass**  
-- **Business Data Analytics & Intelligence with Python**
-
 ---
