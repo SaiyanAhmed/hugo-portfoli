@@ -46,6 +46,7 @@ weight = 2
   <i class="devicon-python-plain", style="font-size: 35px"></i>
   <i class="devicon-c-plain", style="font-size: 35px"></i>
   <i class="devicon-pandas-plain", style="font-size: 35px"></i>
+  <i class="devicon-scikitlearn-plain", style="font-size: 35px"></i>
   <i class="devicon-matplotlib-plain", style="font-size: 35px"></i>
   <i class="devicon-plotly-plain", style="font-size: 35px"></i>
   <i class="devicon-streamlit-plain", style="font-size: 35px"></i>
