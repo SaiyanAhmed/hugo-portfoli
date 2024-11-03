@@ -67,9 +67,9 @@ Experienced Data Analyst with a strong background in data visualization, statist
 
 ## **Technical Skills**
 
-- **Data Analytics & Visualization:** Power BI, Power Query, DAX, Python (Pandas, NumPy, Scikit-learn), Excel (Advanced Analytics)
+- **Data Analytics:** Power BI, Power Query, DAX, Python (Pandas, NumPy, Scikit-learn), Excel (Advanced Analytics)
 - **Data Processing & Databases:** SQL (MySQL, SQL Server), ETL, Time Series Forecasting, Econometrics
-- **Data Reporting Tools:** Power BI, Matplotlib, Seaborn, Plotly-Dash, Streamlit
+- **Data Visualization & Reporting:** Power BI, Matplotlib, Seaborn, Plotly-Dash, Streamlit
 - **Programming Languages:** Python, C
 - **Version Control Tools:** Git, GitHub
 - **Languages:** Fluent in English & Bengali
