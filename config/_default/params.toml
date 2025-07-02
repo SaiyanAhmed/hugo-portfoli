@@ -4,7 +4,7 @@ favicon = "/favicon.png"
 
 #Sidebar
 [sidebar]
-    subtitle = "Experienced Data & Business Analyst skilled in Power BI, SQL, Python, and Data Automation"
+    subtitle = "Experienced Data & Business Analyst skilled in Power BI, SQL, Python, Data Visualization and Data Automation"
     avatar = {src = "img/avatar.JPG"}
 
 #Widget
