@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Sakiful Ahmed Saiyan</title>
+        <link>http://localhost:1313/page/</link>
+        <description>Recent content in Pages on Sakiful Ahmed Saiyan</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>http://localhost:1313/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/about/</guid>
+        <description>&lt;html&gt;
+&lt;head&gt;
+&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
+&lt;style&gt;
+.button {
+  background-color: #6497b1;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;div align=center&gt;
+&lt;a href=&#34;https://drive.google.com/file/d/1VewLK4wD_mjCWcbNtEseMHhpfcTtmwbs/view?usp=sharing&#34;&gt;
+&lt;button class=&#34;button&#34;&gt;Download Resume&lt;/button&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;link rel=&#34;stylesheet&#34; type=&#39;text/css&#39; href=&#34;https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css&#34; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;i class=&#34;devicon-python-plain&#34;, style=&#34;font-size: 35px&#34;&gt;&lt;/i&gt;
+  &lt;i class=&#34;devicon-c-plain&#34;, style=&#34;font-size: 35px&#34;&gt;&lt;/i&gt;
+  &lt;i class=&#34;devicon-pandas-plain&#34;, style=&#34;font-size: 35px&#34;&gt;&lt;/i&gt;
+  &lt;i class=&#34;devicon-scikitlearn-plain&#34;, style=&#34;font-size: 35px&#34;&gt;&lt;/i&gt;
+  &lt;i class=&#34;devicon-matplotlib-plain&#34;, style=&#34;font-size: 35px&#34;&gt;&lt;/i&gt;
+  &lt;i class=&#34;devicon-plotly-plain&#34;, style=&#34;font-size: 35px&#34;&gt;&lt;/i&gt;
+  &lt;i class=&#34;devicon-streamlit-plain&#34;, style=&#34;font-size: 35px&#34;&gt;&lt;/i&gt;
+  &lt;i class=&#34;devicon-mysql-plain&#34;, style=&#34;font-size: 35px&#34;&gt;&lt;/i&gt;
+&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;hr&gt;
+&lt;h2 align=&#34;center&#34;, style=&#34;color:#6497b1;&#34;&gt;Professional Experience&lt;/h2&gt;
+&lt;h3 id=&#34;lead---data-analytics--marketing&#34;&gt;&lt;strong&gt;Lead - Data Analytics &amp;amp; Marketing&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;em&gt;WorkSquare Healthcare Staffing, USA (Deployed by Invicta Solution Ltd.) | Aug 2023 - Present&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analyzed complex datasets to extract actionable insights on market trends and candidate behavior.&lt;/li&gt;
+&lt;li&gt;Developed and maintained dynamic dashboards and reports to track KPIs across marketing and recruitment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reduced marketing and lead acquisition costs&lt;/strong&gt; by leveraging data-driven strategies.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Implemented a machine learning model&lt;/strong&gt; to optimize the evaluation of nursing candidates through a &amp;ldquo;Nurse Scoring System.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Developed a Nurse Scheduling app&lt;/strong&gt; to streamline staffing operations and resource management.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automated the leads distribution process&lt;/strong&gt;, boosting operational efficiency and reducing manual workload.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Awarded &amp;ldquo;Employee of the Month&amp;rdquo; twice&lt;/strong&gt; for outstanding performance.&lt;/li&gt;
+&lt;li&gt;Presented analytical insights to senior management, enabling informed strategic decisions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;trainee-assistant-officer-tao&#34;&gt;&lt;strong&gt;Trainee Assistant Officer (TAO)&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Aviva Finance Limited | Aug 2022 - Jul 2023&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conducted data analysis for financial reporting and risk assessments.&lt;/li&gt;
+&lt;li&gt;Managed data entries and validations to improve back-office operational efficiency.&lt;/li&gt;
+&lt;li&gt;Optimized branch operation costs and maintained relationships with key stakeholders.&lt;/li&gt;
+&lt;li&gt;Assisted branch managers in achieving branch targets and fulfilling operational obligations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 align=&#34;center&#34;, style=&#34;color:#6497b1;&#34;&gt;Education&lt;/h2&gt;
+&lt;h3 id=&#34;bachelor-of-business-administration-bba&#34;&gt;&lt;strong&gt;Bachelor of Business Administration (BBA)&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;em&gt;East West University | 2022&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Major:&lt;/strong&gt; Management Information Systems (MIS)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Minor:&lt;/strong&gt; Human Resource Management (HRM)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>http://localhost:1313/archives/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Articles</title>
+        <link>http://localhost:1313/categories/my-articles/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/my-articles/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Projects</title>
+        <link>http://localhost:1313/categories/my-projects/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/my-projects/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://localhost:1313/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

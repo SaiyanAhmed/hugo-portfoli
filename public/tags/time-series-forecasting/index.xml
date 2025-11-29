@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Time Series Forecasting on Sakiful Ahmed Saiyan</title>
+        <link>http://localhost:1313/tags/time-series-forecasting/</link>
+        <description>Recent content in Time Series Forecasting on Sakiful Ahmed Saiyan</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/time-series-forecasting/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>&#34;Stock Forecasting App&#34; - Strimlit &amp; Facebook Prophet Model</title>
+        <link>http://localhost:1313/p/stock-predict/</link>
+        <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/stock-predict/</guid>
+        <description>&lt;img src="http://localhost:1313/p/stock-predict/cover.jpeg" alt="Featured image of post &#34;Stock Forecasting App&#34; - Strimlit &amp; Facebook Prophet Model" /&gt;&lt;p&gt;This interactive app, built with Streamlit and Facebook Prophet Model, allows users to analyze and forecast stock prices for popular companies like Microsoft (MSFT), Nvidia (NVDA), Google (GOOG), Apple (AAPL), and Tesla (TSLA) in real time. Users can easily select stocks, define a prediction period (1-5 years), and visualize historical data alongside forecasts.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🔍 Key Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Interactive stock data visualization 📊&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Accurate price predictions using the Prophet model 📈&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Detailed analysis of forecast components&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;User-friendly interface&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
+&lt;style&gt;
+.button {
+  background-color: #d9534f;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;div align=center&gt;
+&lt;a href=&#34;https://stocks-predicts.streamlit.app/&#34;&gt;
+&lt;button class=&#34;button&#34;&gt;View App&lt;/button&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/html&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
